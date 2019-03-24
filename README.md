@@ -14,7 +14,7 @@ I have also used **GloVe** here for getting the pretrained model and the word em
 
 Here what I have done:
 
-- Reads the article and breaks into sentences.
+- Reading the article and breaking it into sentences.
 - Tokenizing the sentences.
 - Cleaning the sentences.
 - Creating the vectors of the sentences with the GloVe's pretrained word embeddings on wikipedia data.
