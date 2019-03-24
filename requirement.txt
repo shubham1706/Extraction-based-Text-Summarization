@@ -1,0 +1,5 @@
+numpy
+nltk
+networkx
+pandas
+sklearn
