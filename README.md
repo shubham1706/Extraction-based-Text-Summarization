@@ -50,7 +50,7 @@ I have used 100 dimension data so as to get good accuracy and it takes a bit les
 Just copy your article into the test.txt or change the destination to your .txt document.
 
 
-For running the model:
+For running the model, open your terminal or cmd at the destination:
 
 ```
 python main.py
