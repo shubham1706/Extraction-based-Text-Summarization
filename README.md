@@ -20,7 +20,7 @@ Here what I have done:
 - Creating the vectors of the sentences with the GloVe's pretrained word embeddings on wikipedia data.
 - Creating the graph of sentences, where the vertices are the sentences and the edges are the similarity scores.
 - Computing Similarity matrix and returning the sentences with the top scores for the summary. 
-
+<br>
 ## For Installation
 
 
@@ -44,7 +44,7 @@ Downloading the GloVe vector is important before anything.
 Also one can download the pretrained model by going [here](https://nlp.stanford.edu/projects/glove) and downloading the glove.6B.zip then unzipping it to the data to the same folder.
 
 I have used 100 dimension data so as to get good accuracy and it takes a bit less time, one can use with 50 or 200 dimension data too.
-
+<br>
 ## For usage 
 
 Just copy your article into the test.txt or change the destination to your .txt document.
@@ -56,3 +56,5 @@ For running the model, open your terminal or cmd at the destination:
 python main.py
 
 ```
+<br>
+<br>
